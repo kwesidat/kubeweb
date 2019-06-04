@@ -1,3 +1,3 @@
 # kubeweb
 Kubernetes application
-Working with Deplyment options
+Working with Deployment options
